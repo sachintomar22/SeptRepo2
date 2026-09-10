@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/10/2026 12:10:39 PM +00:00",
-      "DateModify": "9/10/2026 12:10:39 PM +00:00",
+      "DateCreation": "9/10/2026 12:12:44 PM +00:00",
+      "DateModify": "9/10/2026 12:12:44 PM +00:00",
       "Title": "SecondFlow",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -36,8 +36,8 @@
         "BuildingBlocks": [
           {
             "Title": "",
-            "XPosition": "5340",
-            "YPosition": "5100",
+            "XPosition": "5370",
+            "YPosition": "5060",
             "IsExpanded": "True",
             "Width": "150",
             "TemplateId": "97ec8e07-7261-4d28-bc44-b4c1542f00c5",
@@ -55,7 +55,7 @@
                 "Key": "Header",
                 "Title": "",
                 "SortOrder": "0",
-                "ValueId": "ee9f0f17-2a24-4906-9897-b4c165ef00c5",
+                "ValueId": "68f44df5-5069-4aa2-9b04-b4c1402a00c9",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -87,7 +87,7 @@
                 "Key": "Header",
                 "Title": "Start",
                 "SortOrder": "0",
-                "ValueId": "b6fa6d69-40bb-40ae-a6bb-b4c165ef00c5",
+                "ValueId": "27505286-9cc6-44ff-8cd1-b4c1402a00c9",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "",
@@ -104,7 +104,7 @@
                 "Key": "StartAction",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "cbd9c56c-7417-40c2-b92f-b4c165ef00c5",
+                "ValueId": "49ef7aaa-40a2-4bf7-a774-b4c1402a00c9",
                 "LType": "LText",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -114,7 +114,7 @@
                 "Connections": [],
                 "Value": {
                   "Value": "NoAction",
-                  "Id": "cbd9c56c-7417-40c2-b92f-b4c165ef00c5"
+                  "Id": "49ef7aaa-40a2-4bf7-a774-b4c1402a00c9"
                 }
               }
             ]
