@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/10/2026 12:36:52 PM +00:00",
-      "DateModify": "9/10/2026 12:36:52 PM +00:00",
+      "DateCreation": "9/10/2026 12:37:24 PM +00:00",
+      "DateModify": "9/10/2026 12:37:24 PM +00:00",
       "Title": "SecondFlow",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -149,8 +149,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/10/2026 5:28:27 PM +00:00",
-      "DateModify": "9/10/2026 12:10:37 PM +00:00",
+      "DateCreation": "9/10/2026 10:58:27 PM +00:00",
+      "DateModify": "9/10/2026 12:37:24 PM +00:00",
       "Title": "CommonSubflow",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -164,7 +164,79 @@
         "Hight": "10000",
         "IsDeleted": "False",
         "Id": "b22ee1cc-aac6-4ba2-ae26-0e0f27adaa73",
-        "BuildingBlocks": [],
+        "BuildingBlocks": [
+          {
+            "Title": "Log message",
+            "XPosition": "4870",
+            "YPosition": "4680",
+            "IsExpanded": "True",
+            "Width": "150",
+            "TemplateId": "",
+            "FlowchartId": "b22ee1cc-aac6-4ba2-ae26-0e0f27adaa73",
+            "Type": "LogMessage",
+            "Note": "",
+            "IsNoteVisible": "False",
+            "Id": "89f73627-7857-4a29-9bfe-32bd76f5dfa1",
+            "FlowProperties": [
+              {
+                "ParentBuildingBlockId": "89f73627-7857-4a29-9bfe-32bd76f5dfa1",
+                "ParentFlowPropertyId": "",
+                "TemplateId": "",
+                "Type": "TypeTextBlock",
+                "Key": "Text",
+                "Title": "",
+                "SortOrder": "1",
+                "ValueId": "e24f1b4c-3177-4871-85a5-b4c106fb00d0",
+                "LType": "LSignal",
+                "IsExpanded": "False",
+                "IsBlockPropertyChecked": "True",
+                "CustomSortOrder": "0",
+                "Id": "3eda9231-f12f-4d86-8d6b-f0f55abd361b",
+                "ChildProperties": [
+                  {
+                    "ParentBuildingBlockId": "89f73627-7857-4a29-9bfe-32bd76f5dfa1",
+                    "ParentFlowPropertyId": "3eda9231-f12f-4d86-8d6b-f0f55abd361b",
+                    "TemplateId": "",
+                    "Type": "TokenizedText",
+                    "Key": "TokenizedText",
+                    "Title": "",
+                    "SortOrder": "0",
+                    "ValueId": "64426745-c20f-423a-b651-b4c106fb00d0",
+                    "LType": "LText",
+                    "IsExpanded": "False",
+                    "IsBlockPropertyChecked": "True",
+                    "CustomSortOrder": "0",
+                    "Id": "1d2750c4-6206-4a5c-b7ac-743fe5f5cef1",
+                    "ChildProperties": [],
+                    "Connections": [],
+                    "Value": {
+                      "Value": "",
+                      "Id": "64426745-c20f-423a-b651-b4c106fb00d0"
+                    }
+                  }
+                ],
+                "Connections": []
+              },
+              {
+                "ParentBuildingBlockId": "89f73627-7857-4a29-9bfe-32bd76f5dfa1",
+                "ParentFlowPropertyId": "",
+                "TemplateId": "",
+                "Type": "Header",
+                "Key": "Header",
+                "Title": "Log message",
+                "SortOrder": "0",
+                "ValueId": "879d0238-25f7-416e-8c04-b4c106fb00d0",
+                "LType": "LSignal",
+                "IsExpanded": "False",
+                "IsBlockPropertyChecked": "",
+                "CustomSortOrder": "0",
+                "Id": "a734b2b5-6d49-4cb7-9452-f5cfbb9cf236",
+                "ChildProperties": [],
+                "Connections": []
+              }
+            ]
+          }
+        ],
         "FlowProperties": [
           {
             "ParentBuildingBlockId": "97ec8e07-7261-4d28-bc44-b4c1542f00c5",
