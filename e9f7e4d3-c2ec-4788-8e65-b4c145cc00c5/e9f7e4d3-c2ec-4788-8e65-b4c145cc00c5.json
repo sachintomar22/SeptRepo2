@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/10/2026 12:37:24 PM +00:00",
-      "DateModify": "9/10/2026 12:37:24 PM +00:00",
+      "DateCreation": "9/10/2026 12:41:58 PM +00:00",
+      "DateModify": "9/10/2026 12:41:58 PM +00:00",
       "Title": "SecondFlow",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -150,7 +150,7 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
       "DateCreation": "9/10/2026 10:58:27 PM +00:00",
-      "DateModify": "9/10/2026 12:37:24 PM +00:00",
+      "DateModify": "9/10/2026 12:41:57 PM +00:00",
       "Title": "CommonSubflow",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -167,8 +167,8 @@
         "BuildingBlocks": [
           {
             "Title": "Log message",
-            "XPosition": "4870",
-            "YPosition": "4680",
+            "XPosition": "4990",
+            "YPosition": "4670",
             "IsExpanded": "True",
             "Width": "150",
             "TemplateId": "",
@@ -186,7 +186,7 @@
                 "Key": "Text",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "e24f1b4c-3177-4871-85a5-b4c106fb00d0",
+                "ValueId": "84f06864-4841-4009-9d2b-b4c1471d00d1",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -201,7 +201,7 @@
                     "Key": "TokenizedText",
                     "Title": "",
                     "SortOrder": "0",
-                    "ValueId": "64426745-c20f-423a-b651-b4c106fb00d0",
+                    "ValueId": "be0884b5-cd6c-450f-97c7-b4c1471d00d1",
                     "LType": "LText",
                     "IsExpanded": "False",
                     "IsBlockPropertyChecked": "True",
@@ -211,7 +211,7 @@
                     "Connections": [],
                     "Value": {
                       "Value": "",
-                      "Id": "64426745-c20f-423a-b651-b4c106fb00d0"
+                      "Id": "be0884b5-cd6c-450f-97c7-b4c1471d00d1"
                     }
                   }
                 ],
@@ -225,7 +225,7 @@
                 "Key": "Header",
                 "Title": "Log message",
                 "SortOrder": "0",
-                "ValueId": "879d0238-25f7-416e-8c04-b4c106fb00d0",
+                "ValueId": "b6c3ac00-523a-4281-b00f-b4c1471d00d1",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "",
