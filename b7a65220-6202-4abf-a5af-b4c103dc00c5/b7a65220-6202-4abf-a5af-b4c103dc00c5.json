@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/10/2026 12:34:55 PM +00:00",
-      "DateModify": "9/10/2026 12:34:55 PM +00:00",
+      "DateCreation": "9/10/2026 12:35:26 PM +00:00",
+      "DateModify": "9/10/2026 12:35:26 PM +00:00",
       "Title": "FirstFlow",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -55,10 +55,10 @@
                 "Key": "Header",
                 "Title": "Start",
                 "SortOrder": "0",
-                "ValueId": "893c5a92-8746-42f6-a253-b4c12b4400c5",
+                "ValueId": "0bbb053d-e514-49f3-a3bb-b4c17c7400cf",
                 "LType": "LSignal",
                 "IsExpanded": "False",
-                "IsBlockPropertyChecked": "",
+                "IsBlockPropertyChecked": "True",
                 "CustomSortOrder": "0",
                 "Id": "89d98190-ca71-409d-a993-e4d07ff26c0e",
                 "ChildProperties": [],
@@ -66,7 +66,7 @@
                   {
                     "OutputFlowPropertyId": "89d98190-ca71-409d-a993-e4d07ff26c0e",
                     "InputFlowPropertyId": "9bb433e3-6c1f-4cbe-8039-476b55e6329a",
-                    "Id": "bec65bdd-7153-453b-b813-b4c12b4400c5",
+                    "Id": "18e2e9c7-3ef2-451c-bc6d-b4c17c7400cf",
                     "WireGuides": []
                   }
                 ]
@@ -79,7 +79,7 @@
                 "Key": "StartAction",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "c6b70281-a4bc-4589-813b-b4c12b4400c5",
+                "ValueId": "55ea9f44-3691-4fdf-b451-b4c17c7400cf",
                 "LType": "LText",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -89,15 +89,15 @@
                 "Connections": [],
                 "Value": {
                   "Value": "NoAction",
-                  "Id": "c6b70281-a4bc-4589-813b-b4c12b4400c5"
+                  "Id": "55ea9f44-3691-4fdf-b451-b4c17c7400cf"
                 }
               }
             ]
           },
           {
             "Title": "",
-            "XPosition": "5240",
-            "YPosition": "5050",
+            "XPosition": "5360",
+            "YPosition": "5040",
             "IsExpanded": "True",
             "Width": "150",
             "TemplateId": "797218e4-40e7-45fc-9d80-bc9922166c71",
@@ -115,7 +115,7 @@
                 "Key": "ModuleInput",
                 "Title": "Start",
                 "SortOrder": "1",
-                "ValueId": "ccf5f260-264f-4d8a-af1f-b4c12b4400c5",
+                "ValueId": "a9da167d-1153-41e4-8247-b4c17c7400cf",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -132,7 +132,7 @@
                 "Key": "Header",
                 "Title": "",
                 "SortOrder": "0",
-                "ValueId": "2355c851-0e79-4077-b3b7-b4c12b4400c5",
+                "ValueId": "4e8c31f8-7863-4bed-80cd-b4c17c7400cf",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
