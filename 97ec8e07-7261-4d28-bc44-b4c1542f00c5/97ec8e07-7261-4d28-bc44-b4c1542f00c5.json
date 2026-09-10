@@ -8,8 +8,8 @@
       "AssigneeUserId": "",
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "Description": "",
-      "DateCreation": "9/10/2026 12:10:39 PM +00:00",
-      "DateModify": "9/10/2026 12:10:39 PM +00:00",
+      "DateCreation": "9/10/2026 12:37:24 PM +00:00",
+      "DateModify": "9/10/2026 12:37:24 PM +00:00",
       "Title": "CommonSubflow",
       "Type": "SubFlow",
       "IsDeleted": "False",
@@ -26,8 +26,8 @@
         "BuildingBlocks": [
           {
             "Title": "Log message",
-            "XPosition": "4760",
-            "YPosition": "4660",
+            "XPosition": "4870",
+            "YPosition": "4680",
             "IsExpanded": "True",
             "Width": "150",
             "TemplateId": "",
@@ -45,7 +45,7 @@
                 "Key": "Text",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "1926b3d2-5275-4452-a284-b4c1ac7d00c8",
+                "ValueId": "e24f1b4c-3177-4871-85a5-b4c106fb00d0",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -60,7 +60,7 @@
                     "Key": "TokenizedText",
                     "Title": "",
                     "SortOrder": "0",
-                    "ValueId": "4784d6df-73cf-479a-b679-b4c1ac7d00c8",
+                    "ValueId": "64426745-c20f-423a-b651-b4c106fb00d0",
                     "LType": "LText",
                     "IsExpanded": "False",
                     "IsBlockPropertyChecked": "True",
@@ -70,7 +70,7 @@
                     "Connections": [],
                     "Value": {
                       "Value": "",
-                      "Id": "4784d6df-73cf-479a-b679-b4c1ac7d00c8"
+                      "Id": "64426745-c20f-423a-b651-b4c106fb00d0"
                     }
                   }
                 ],
@@ -84,7 +84,7 @@
                 "Key": "Header",
                 "Title": "Log message",
                 "SortOrder": "0",
-                "ValueId": "7053eaf6-9289-40a7-af02-b4c1ac7d00c8",
+                "ValueId": "879d0238-25f7-416e-8c04-b4c106fb00d0",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "",
